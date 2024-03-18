@@ -8,8 +8,16 @@ Devs Landing Page|tb-devs-frontend|https://github.com/JoshMayerr/tb-devs-landing
 Publisher Landing Page|tollbit|https://github.com/tp-novoscribe/tollbit|🔒
 Documentation|tb-docs|https://github.com/JoshMayerr/tb-docs|Yes
 
-## Frontend
+#### Frontend
+**Name**|**repo-slug**|**link**|**public?**
+:-----|:-----|:-----|:-----
+Developer Dashboard|tb-developer-frontend|https://github.com/JoshMayerr/tb-developer-frontend|🔒
+Publisher Dashboard|tb-content-frontend|https://github.com/JoshMayerr/tb-content-frontend|🔒
 
-## Backend
+#### Backend
+**Name**|**repo-slug**|**link**|**public?**
+:-----|:-----|:-----|:-----
+Backend API|tollbit|https://github.com/xytosis/tollbit|🔒
 
-## SDKs
+#### SDKs
+tbd
